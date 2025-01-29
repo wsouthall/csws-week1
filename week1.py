@@ -13,3 +13,7 @@ names.append("ben")
 names.reverse()
 
 print(names)
+
+y = names.pop(1)
+print(names)
+print(y)
